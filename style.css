@@ -1,0 +1,29 @@
+#button1 {
+    color: lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 10px;
+    width: 100px;
+    margin: 5px 20px;
+}
+
+#button2 {
+    color: whitesmoke;
+    background-color: lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin: 5px 20px;
+}
+
+#button3 {
+    color: white;
+    background-color: royalblue;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 1px black;
+    width: 125px;
+    height: 25px;
+    margin: 0 20px;
+    margin: 5px 20px;
+}
+
